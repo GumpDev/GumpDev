@@ -33,18 +33,7 @@
 - PHP
 - Java
 - C#
-  - Unity
-  - .NET
-- JS e TS
-  - NodeJs
-  - VueJS
-  - ReactJS
-  - React Native
-  - Cordova
-  - MongoDB
-  - Socket.IO
-  - Express
-
+- Typescript
 
   
 ### Experiências
