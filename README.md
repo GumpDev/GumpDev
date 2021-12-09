@@ -1,6 +1,9 @@
 <h3 align="center">Gustavo Maia Paes</h3>
 
 <div align="center">
+<img align="center" src="https://cdn.gump.dev/home/headerDesktop.webp"/>
+</div>
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gumpdev&show_icons=true&theme=radical"/><br/><br/>
 </div>
 
