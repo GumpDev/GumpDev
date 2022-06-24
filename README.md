@@ -1,56 +1,65 @@
+<h2 align="left">Hi 👋! I'm Gump  from 🇧🇷 Brazil</h2>
+
+###
+
+<img align="left" height="100" src="https://i.imgur.com/Z2syxvS.png"  />
+
+###
+
+<h4 align="left">A programmer, that loves pink, who likes to do ambitious projects and loves to laugh<br>I've been in the programming business for 6 years now, I make Sites, Applications, Games and Minecraft Plugins<br>I live in São Paulo, studied at Unicamp and now work at CI&TI am a resident of Limeira/SP and I have a degree in Computer Technician from Unicamp. I currently work at CI&T as a senior developer.</h4>
+
+###
 
 <div align="center">
-<img align="center" width="50%" src="https://cdn.gump.dev/home/headerDesktop.webp"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=GumpDev" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=GumpDev" height="150" alt="languages graph"  />
 </div>
+
+###
+
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gumpdev&show_icons=true&theme=radical"/><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="30" width="42" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" width="42" alt="unity logo"  />
 </div>
 
-<p align="justify">Olá👋, tudo bem? Meu nome é Gustavo Maia Paes, mais conhecido por Gump, sou estudante de ciência da computação e trabalho atualmente na CI&T, gosto de fazer jogos e adoro fazer projetos open source.</p>
+###
 
-[Meu Site](https://gump.dev)
+<div align="left">
+  <a href="https://www.linkedin.com/in/gustavo-maia-paes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/GumpDevs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/gustavompaes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/gustavompaes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.twitch.tv/gumpdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://discord.com/invite/XD2Vg58" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto://contact@gump.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-### Tópicos
+###
 
-- [📱 Redes Sociais](#redes-sociais)
-- [🤹 Competências](#competencias)
-- [💼 Experiências](#experiências)
-- [📚 Formação acadêmica](#formação-acadêmica)
-- [📞 Contato](#contato)
+<br clear="both">
 
+<img href="https://raw.githubusercontent.com/GumpDev/GumpDev/blob/output/snake.svg" alt="Snake animation" />
 
-
-### Redes Sociais
-- [Twitch](https://www.twitch.tv/gumpdev)
-- [Youtube](https://youtube.com/gumpdev)
-- [Discord](https://discord.gg/XD2Vg58)
-- [Linkedin](https://www.linkedin.com/in/gustavo-maia-paes/)
-- [Twitter](https://twitter.com/gumpdevs)
-
-
-
-### Competências
-- HTML
-- CSS
-- PHP
-- Java
-- C#
-- Typescript
-
-  
-### Experiências
-- (02/2021 - Atual) CI&T - Desenvolvedor
-- (05/2020 - 02/2021) BrasilTrack - Desenvolvedor Front-End VueJS
-- (03/2019 - 12/2019) Alfa Networks - Desenvolvedor Back-End PHP
-
-
-
-### Formação acadêmica
-- (02/2021 - Atual) Estácio - Ciência da Computação
-- (03/2020 - 03/2020) Departamento de Engenharia Informática (Coimbra) - Projeto de Internalização sobre segurança digital
-- (01/2018 - 12/2020) Colégio Técnico de Limeira (Unicamp) - Técnico de Informática + Ensino Médio
-
-
-
-### Contato
-Email: contato@gump.dev
+###
