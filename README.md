@@ -66,4 +66,4 @@
 
 <br clear="both">
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12167052808&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12167052808&count=5)
