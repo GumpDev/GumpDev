@@ -60,10 +60,4 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/GumpDev/GumpDev/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12167052808&count=5)
