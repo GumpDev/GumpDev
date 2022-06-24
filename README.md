@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">A programmer, that loves pink, who likes to do ambitious projects and loves to laugh<br>I've been in the programming business for 6 years now, I make Sites, Applications, Games and Minecraft Plugins<br>I live in São Paulo, studied at Unicamp and now work at CI&TI am a resident of Limeira/SP and I have a degree in Computer Technician from Unicamp. I currently work at CI&T as a senior developer.</h4>
+<h4 align="left">A programmer, that loves pink, who likes to do ambitious projects and loves to laugh<br>I've been in the programming business for 6 years now, I make Sites, Applications, Games and Minecraft Plugins<br>I live in São Paulo, studied at Unicamp and now work at CI&TI am a resident of Limeira/SP and I have a degree in Computer Technician from Unicamp. I currently work at CI&T as a mid developer.</h4>
 
 ###
 
